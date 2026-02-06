@@ -1,0 +1,5 @@
+<h1>Deeplink Testseite</h1>
+<p>Klicke auf einen Link, um die App zu öffnen:</p>
+
+<a href="telekom://">Telekom App öffnen</a><br>
+<a href="telekom://setupRouter">Telekom Router Setup öffnen</a>
