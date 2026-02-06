@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Telekom Deeplink Test</title>
+<style>
+  body { font-family: Arial, sans-serif; text-align: center; padding: 2rem; background: #f5f5f5; }
+  h1 { color: #333; }
+  a.button {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background: #0078d7;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1.5rem;
+  }
+  a.button:hover { background: #005a9e; }
+</style>
+</head>
+<body>
+<h1>Telekom Deeplink Test</h1>
+
+<!-- Dein Bbcockpit Deeplink -->
+<a class="button" href="telekom://bbcockpit/setupDevices">Telekom Bbcockpit / Setup Devices öffnen</a>
+
+<p style="margin-top:2rem; font-size:0.9rem; color:#666;">
+Hinweis: Android öffnet die App nur, wenn sie installiert ist.
+</p>
+</body>
+</html>
