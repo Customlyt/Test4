@@ -1,3 +1,5 @@
 # Test4
 
-<a href="telekom://bbcockpit/setupDevices">Telekom Bbcockpit / Setup Devices öffnen</a>
+<a href="#" onclick="window.location='telekom://bbcockpit/setupDevices'">
+  Telekom Bbcockpit / Setup Devices öffnen
+</a>
